@@ -20,7 +20,7 @@ This is my sales analytics of project on atliQ Hardwares using MS EXCEL
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/sreevignesh05/Sales-analytics/blob/main/P%20%26%20L%20Statement%20by%20fiscal%20year.pdf)_ & _[Months](https://github.com/sreevignesh05/Sales-analytics/blob/main/P%20%26%20L%20Statement%20for%20fical%20year%20quaters.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/sreevignesh05/Sales-analytics/blob/f80459e0718fbcc8f7e04017f89beb90e71da5df/P%20%26%20L%20Statement%20for%20market.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
